@@ -1,7 +1,3 @@
-; Chloe Duncan
-; 25 February 2022
-; TCSS 371, Professor Fowler
-;
 ; GuessingGame Assembly Language Program
 ; Simulates guessing game. Stores #4 and asks user
 ; to guess a number 0-9. Handles invalid input and
